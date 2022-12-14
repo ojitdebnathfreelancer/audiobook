@@ -16,4 +16,4 @@ To Read text (Text to speech)
 `
 
 #### Note:
-This code can read all the printable text from a PDF file/ Books
+This code can read all the printable text from a PDF file/ Booksiuhjkhhjk
